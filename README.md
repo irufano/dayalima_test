@@ -14,7 +14,7 @@
   <h3 align="center">List Detail App</h3>
 
   <p align="center">
-    An list detail app using BLoC state management
+    A list detail app using BLoC state management
     
   </p>
 </p>
