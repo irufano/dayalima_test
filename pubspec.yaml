@@ -32,7 +32,6 @@ dependencies:
   equatable: ^1.2.5
   dio: ^3.0.10
   get_it: ^5.0.6
-  intl: ^0.16.1
   material_design_icons_flutter: ^4.0.5855
   google_fonts: ^1.1.1
 
